@@ -1,10 +1,9 @@
 # Pesquisa-Bibliografica
 
 
-Projeto: Levantamento Bibliográfico,
-Tema: Políticas Publicas e Ciência de Dados
-Orientadores: Me. Prof. Gilberto Francisco de Oliveira¹; Dr. Prof. Célio Aparecido Garcia²; Dra. Prof.
-Kédima Matos³
+# Projeto: Levantamento Bibliográfico,
+# Tema: Políticas Publicas e Ciência de Dados
+# Orientadores: Me. Prof. Gilberto Francisco de Oliveira¹; Dr. Prof. Célio Aparecido Garcia²; Dra. Prof.Kédima Matos³
 Descrição: Projeto apresentado na SETECC - ( Semana de Empreendedorismo, Tecnologia, Cultura e
 Criatividade), com o objetivo de evidenciar os dados de forma quantitativa sobre, revistas
 recorrentes e quantidade de artigos sobre ciência de dados x políticas públicas aplicadas a área da
